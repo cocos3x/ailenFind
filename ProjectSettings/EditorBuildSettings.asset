@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Main Scenes/Splash.unity
+    guid: 726d3958628d9cd4387fbe7105bee45f
+  - enabled: 1
+    path: Assets/_Scenes/Main Scenes/Persistent.unity
+    guid: 917732f7e9492cb4d92b0e6a460390fc
+  - enabled: 1
+    path: Assets/_Scenes/01 00 Bedroom.unity
+    guid: fcb6b446548cc124e91cd04e5e3b1f19
+  - enabled: 1
+    path: Assets/_Scenes/02 00 Living Room.unity
+    guid: a44b4f5364536c54bb485283d1b7fe60
+  - enabled: 1
+    path: Assets/_Scenes/03 01 Bathroom.unity
+    guid: f2754232d48b5754dbd775716f2ae844
+  - enabled: 1
+    path: Assets/_Scenes/04 01 Three in a Bed.unity
+    guid: 3355eebbfda41d9478dbe2a6c5aceeeb
+  - enabled: 1
+    path: Assets/_Scenes/05 04 Doorbell.unity
+    guid: 96c4d3adb1f7f644dadb50785252cc2b
+  - enabled: 1
+    path: Assets/_Scenes/06 02 Action Alien Party.unity
+    guid: 34a6d92429eb75e47a75d812361869e8
+  - enabled: 1
+    path: Assets/_Scenes/07 01 Garden.unity
+    guid: 609acfc7e5144484882804fee65f8b88
+  - enabled: 1
+    path: Assets/_Scenes/08 01 Postman.unity
+    guid: 80edd566bfe9f7d4b8b6f4dbd4dcb636
+  - enabled: 1
+    path: Assets/_Scenes/09 00 Kitchen.unity
+    guid: 6e03cfa0d941f0d489b592ed5d25ca66
+  - enabled: 1
+    path: Assets/_Scenes/10 01 Dinner Party.unity
+    guid: 25f170031cf39f548a03727d2d43ad13
+  - enabled: 1
+    path: Assets/_Scenes/11 02 Inanimate Object.unity
+    guid: 1890556d87715a34898e7bfa1fcf91b0
+  - enabled: 1
+    path: Assets/_Scenes/12 02 Action Corridor 0.unity
+    guid: 6bb47e861a90a4a4f87ff7d8e7221f11
+  - enabled: 1
+    path: Assets/_Scenes/13 04 Bus Stop.unity
+    guid: 75a8efac845795848bba6cdafe820bc3
+  - enabled: 1
+    path: Assets/_Scenes/14 03 DoppelGanger.unity
+    guid: c3006f05ed7a7bc4cb9b1f80104168f5
+  - enabled: 1
+    path: Assets/_Scenes/15 04 Protest.unity
+    guid: c7349e24c476d3445811d5df1c42dfd2
+  - enabled: 1
+    path: Assets/_Scenes/16 02 Street Cars.unity
+    guid: 20482f4d038cb3943a8a99f2a46829b5
+  - enabled: 1
+    path: Assets/_Scenes/17 02 Bar Switch.unity
+    guid: 89ffa5f90665d2d4990490a981bb2f1d
+  - enabled: 1
+    path: Assets/_Scenes/18 02 Action Plant Room.unity
+    guid: 306b102f922b25f43937f121c28fd11e
+  - enabled: 1
+    path: Assets/_Scenes/19 02 Free Samples.unity
+    guid: 9b08dcf2d51f177479fdf8b56c0f54b0
+  - enabled: 1
+    path: Assets/_Scenes/20 03 Karen.unity
+    guid: 336c9a6e9baff55499e1e98c650bad92
+  - enabled: 1
+    path: Assets/_Scenes/21 04 Rescue.unity
+    guid: 210782f598f0cbb4c9d6f556943aee07
+  - enabled: 1
+    path: Assets/_Scenes/22 02 Bank Robbery.unity
+    guid: dc2cf2acbbc201243ab2f214e5946008
+  - enabled: 1
+    path: Assets/_Scenes/23 03 Prison.unity
+    guid: 4c5833b492ce02a4c9ad7aea45ee4a33
+  - enabled: 1
+    path: Assets/_Scenes/24 02 Action Barracks.unity
+    guid: b64a752f371bcc64b88de212aa7447a4
+  - enabled: 1
+    path: Assets/_Scenes/25 04 Fire Hydrant.unity
+    guid: 1125d751fa4c6a042aaa9b2d575e670b
+  - enabled: 1
+    path: Assets/_Scenes/26 04 Rooftop.unity
+    guid: 344aba3e38d4d054fbc6977b32498763
+  - enabled: 1
+    path: Assets/_Scenes/27 04 Ladder.unity
+    guid: f6be637470360594a84ca90903201cc9
+  - enabled: 1
+    path: Assets/_Scenes/28 03 Play Park.unity
+    guid: 963c39c216a47d042b66b52cc241bc78
+  - enabled: 1
+    path: Assets/_Scenes/29 02 Parade.unity
+    guid: 92c3d323aaef12d4ca3a88cb7b7b6fdf
+  - enabled: 1
+    path: Assets/_Scenes/30 03 Action Human Base.unity
+    guid: 6706dba73b894654baddc566279635b1
+  - enabled: 1
+    path: Assets/_Scenes/31 00 Politician Speech.unity
+    guid: d878f178fa4137f469ce5e9466fb4cf9
+  - enabled: 1
+    path: Assets/_Scenes/32 04 Party Cake.unity
+    guid: 88f0fc3799624ac4388bf7c66bb31b56
+  - enabled: 1
+    path: Assets/_Scenes/33 00 Party Single Room.unity
+    guid: 181f2581262a5b249b58f0374fc71284
+  - enabled: 1
+    path: Assets/_Scenes/34 03 Comedian.unity
+    guid: fb7bd8bc7dc09254cb44d38b15f80eba
+  - enabled: 1
+    path: Assets/_Scenes/35 02 Gameshow.unity
+    guid: a34774f117f30a741b138a5585e7eb0e
+  - enabled: 1
+    path: Assets/_Scenes/36 04 Action Countryside Base Entrance.unity
+    guid: 227c5dee9dea2dd45aa99b9720dfd4d8
+  - enabled: 1
+    path: Assets/_Scenes/37 01 Office.unity
+    guid: 40482e26c5d1ddb41a31c5c6be634cbe
+  - enabled: 1
+    path: Assets/_Scenes/38 03 Flash Mob.unity
+    guid: 5b26f6d123efb494a90c449cdb3a0eaf
+  - enabled: 1
+    path: Assets/_Scenes/39 01 Park Exercise.unity
+    guid: 6034606c0e665f0409eec0c0748e9baf
+  - enabled: 1
+    path: Assets/_Scenes/40 02 Park Ritual.unity
+    guid: 6bda0fab6f48f7b438f886db895f76e6
+  - enabled: 1
+    path: Assets/_Scenes/41 04 Rubber Ring.unity
+    guid: 67a8f84454a28f3498f6194385552763
+  - enabled: 1
+    path: Assets/_Scenes/42 03 Action Abduction.unity
+    guid: 2ac87131457efe04db20fa47d472ff39
+  - enabled: 1
+    path: Assets/_Scenes/43 03 Scarecrow.unity
+    guid: f9a21f9ea969b244ca9772308e78d762
+  - enabled: 1
+    path: Assets/_Scenes/44 03 Birds.unity
+    guid: 6f9786911e460e04e9f46dfaed203cd4
+  - enabled: 1
+    path: Assets/_Scenes/45 03 Crops.unity
+    guid: 6090dd77798d18c45b342e935419693f
+  - enabled: 1
+    path: Assets/_Scenes/46 04 Fishing.unity
+    guid: e84b82aa7eed25b499e5cc53948e9fc2
+  - enabled: 1
+    path: Assets/_Scenes/47 03 Inspection.unity
+    guid: 288f40e0aef57084b9ecd80524b4cd82
+  - enabled: 1
+    path: Assets/_Scenes/48 04 Action Cattle Abduction.unity
+    guid: 8e7ca867ea453564f8bfcd17b43df93f
+  - enabled: 1
+    path: Assets/_Scenes/49 05 Bar Fight.unity
+    guid: 98a8239e9b6452942b34e8131bb1dd0d
+  - enabled: 1
+    path: Assets/_Scenes/50 05 Faculty.unity
+    guid: ac344645048017c4db06ed6e05f1c48b
+  - enabled: 1
+    path: Assets/_Scenes/51 05 Cactus.unity
+    guid: 150e3010a2f822d4d8c5c20164cff4f7
+  - enabled: 1
+    path: Assets/_Scenes/52 05 Festival Toilets.unity
+    guid: f8f5a65e7e456bf46975cce2df435150
+  - enabled: 1
+    path: Assets/_Scenes/53 05 Gorilla Zoo.unity
+    guid: e8f370aaf84ecc9428e54619c9326de6
+  - enabled: 1
+    path: Assets/_Scenes/54 05 Action Industrial.unity
+    guid: 3bc9df20db471a740bf470ff89700c07
+  - enabled: 1
+    path: Assets/_Scenes/55 05 Its a Balloon.unity
+    guid: 85451160f2ad7e848b0b6bb96b00a5b1
+  - enabled: 1
+    path: Assets/_Scenes/56 05 Building Site.unity
+    guid: 07cb5e1051f925d478a5f55177d495bc
+  - enabled: 1
+    path: Assets/_Scenes/57 05 Train Station.unity
+    guid: 3ee3507933f2fec43a5096e3ec53e29c
+  - enabled: 1
+    path: Assets/_Scenes/58 05 Talent Show.unity
+    guid: 95cef16060ade5e42b43c9d18fbbfc2c
+  - enabled: 1
+    path: Assets/_Scenes/59 05 Bear Attack.unity
+    guid: 3a924d0edc60b4047b438727548ea4cb
+  - enabled: 1
+    path: Assets/_Scenes/60 05 Action Ghetto Base.unity
+    guid: b12c9c1b418e403458b21fac055ce561
+  - enabled: 1
+    path: Assets/_Scenes/61 06 Predator.unity
+    guid: de8631626c9fcd94683cdb72b761a3b3
+  - enabled: 1
+    path: Assets/_Scenes/62 06 Sauna.unity
+    guid: dcf4e8fa11e1cbb469cca91f62629195
+  - enabled: 1
+    path: Assets/_Scenes/63 06 CarrotFarm.unity
+    guid: 80412a9b08cb92a4890657f72cd84a35
+  - enabled: 1
+    path: Assets/_Scenes/64 06 Pool Party.unity
+    guid: 09e89286c57e8de45b61e27d9c7abba6
+  - enabled: 1
+    path: Assets/_Scenes/65 06 Shopping Precinct.unity
+    guid: 0d91ad0dfffba7249a7c72089b97173d
+  - enabled: 1
+    path: Assets/_Scenes/66 06 Action Country.unity
+    guid: 9cb5683d67e03ce4581f9f0a3c45a885
+  - enabled: 1
+    path: Assets/_Scenes/67 06 Convoy.unity
+    guid: 269774b8f38d9754caf55e560af08731
+  - enabled: 1
+    path: Assets/_Scenes/68 06 Guards.unity
+    guid: f198a28509246de43ae935287c366317
+  - enabled: 1
+    path: Assets/_Scenes/69 06 Briefing Room.unity
+    guid: cb6f3de4f8ead304c8ec0fd894d6aebe
+  - enabled: 1
+    path: Assets/_Scenes/70 06 Launch Pad.unity
+    guid: 132cf2773610414459d4113d5f48cf4e
+  - enabled: 1
+    path: Assets/_Scenes/71 06 Zero Gravity.unity
+    guid: bf587d3769034f646b9a64a8aee97d26
+  - enabled: 1
+    path: Assets/_Scenes/72 06 Action MotherShip.unity
+    guid: d4669bc1e222356428a6367b79d77b3f
+  - enabled: 1
+    path: Assets/_Scenes/AB 05 Action Industrial.unity
+    guid: 82b53fe457d317940ae484db62733504
+  - enabled: 1
+    path: Assets/_Scenes/AB 05 Action Ghetto Base.unity
+    guid: 53ed4a2e4a1d12d45b64e2edcbe53042
